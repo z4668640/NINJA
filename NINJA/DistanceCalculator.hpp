@@ -5,9 +5,7 @@
 
 #include <cmath>
 #include <cfloat>
-#include <xmmintrin.h>        /* SSE  */
-#include <emmintrin.h>        /* SSE2 */
-#include <tmmintrin.h>      /* SSE3 */
+#include "sse2neon.h"
 #include <cstdint>
 
 
