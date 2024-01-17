@@ -2,9 +2,11 @@
 
 [API Documentation](https://wheelerlab.org/NINJA/)
 
-# NINJA
+# NINJA-ARM
 
 Nearly Infinite Neighbor Joining Application
+
+This version adds ARM support to the original author. Thanks to the original author and Intel.
 
 ## About
 
