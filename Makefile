@@ -7,7 +7,7 @@ OBJECTS := $(SOURCES:.cpp=.o)
 
 # The C++ compiler must support C++11
 CXX := g++
-CXXFLAGS := -std=gnu++11 -Wall -mssse3
+CXXFLAGS := -std=gnu++11 -Wall
 
 # TODO: build to a dist directory or similar
 # TODO: use separate release and debug build directories
